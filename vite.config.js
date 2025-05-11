@@ -1,4 +1,4 @@
 export default defineConfig({
   base: './',
-  // other config
+  plugins: [react()],
 });
