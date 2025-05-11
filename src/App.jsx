@@ -1,12 +1,9 @@
-import React from 'react';
-
-const App = () => {
+function App() {
   return (
-    <div style={{ padding: '20px' }}>
-      <h1>Hello, Vercel!</h1>
-      <p>This is your React app running on Vercel!</p>
+    <div>
+      <h1>Welcome to MailMind</h1>
+      <p>This is your homepage content.</p>
     </div>
   );
-};
-
+}
 export default App;
